@@ -1,0 +1,32 @@
+{
+    "plugins": [],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "5.2",
+    "plugin_settings": {
+        "cordova-plugin-whitelist": {
+            "variables": []
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "variables": [
+                "XWALK_VERSION=14.43.343.25"
+            ]
+        }
+    },
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.0.0",
+        "cordova-plugin-crosswalk-webview@1.3.1",
+        "cordova-plugin-inappbrowser@1.0.1"
+    ],
+    "title-ja": "",
+    "title-en": "Find Kate",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "ios",
+        "winrt",
+        "chrome"
+    ],
+    "name": "generated-1455992537-56aa0b21fd17345e4ae4ce47"
+}
